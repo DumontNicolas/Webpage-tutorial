@@ -1,0 +1,20 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color:white;
+  height: 500px;
+}
+
+.btn-grey {
+  background-image: linear-gradient(45deg, rgb(0,0,0), rgb(141, 141, 141));
+  text-decoration: none;
+  padding: 8px 16px;
+  border-radius: 8px;
+}
+
+.btn-grey:hover {
+  background-image: linear-gradient(45deg, rgb(0,0,0) 30%, rgb(141, 141, 141));
+}

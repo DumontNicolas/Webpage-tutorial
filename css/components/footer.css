@@ -1,0 +1,15 @@
+.footer {
+  color: darkgrey;
+  text-align:center;
+}
+
+li {
+  display: inline-block;
+  align-self: center;
+}
+
+.footer li {
+  color: green;
+  margin: 0 4px;
+  font-size: 24px;
+}
